@@ -1,0 +1,10 @@
+title: 보건의료 데이터 자료집
+description: 공공·임상·연구데이터 통합 자료
+theme: jekyll-theme-cayman
+lang: ko
+show_downloads: false
+plugins:
+  - jekyll-relative-links
+exclude:
+  - source/
+  - scripts/
